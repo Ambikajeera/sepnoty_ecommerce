@@ -13,13 +13,11 @@ Admin can manage products, view orders, update status, and export orders.
 
 git clone https://github.com/Ambikajeera/sepnoty_ecommerce.git
 2️⃣ Navigate to the Project Folder
-bash
-
 cd sepnoty_project
+---
 3️⃣ Create a Virtual Environment
-
-
 python -m venv venv
+---
 4️⃣ Activate the Virtual Environment
 For Windows:
 venv\Scripts\activate
