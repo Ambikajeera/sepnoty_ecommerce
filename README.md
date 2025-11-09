@@ -13,11 +13,12 @@ Mini E-Commerce Web App with User & Admin Panel for managing Products & Orders.
 ```bash
 git clone https://github.com/Ambikajeera/sepnoty_ecommerce.git
 
-2.Navigate to the project folder:
+2.**Navigate to the project folder:**
 
 cd sepnoty_project
 
-3.Create a virtual environment:
+### ⚙️ **Step 3: Create a Virtual Environment**
+
 
 python -m venv venv
 
