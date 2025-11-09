@@ -13,7 +13,7 @@ Mini E-Commerce Web App with User & Admin Panel for managing Products & Orders.
 ```bash
 git clone https://github.com/Ambikajeera/sepnoty_ecommerce.git
 
-2.**Navigate to the project folder:**
+1. **Clone the repository:**
 
 cd sepnoty_project
 
