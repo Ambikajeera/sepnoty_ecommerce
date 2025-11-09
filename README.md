@@ -17,7 +17,7 @@ git clone https://github.com/Ambikajeera/sepnoty_ecommerce.git
 
 cd sepnoty_project
 
-### ⚙️ **Step 3: Create a Virtual Environment**
+# 🧰 Step 2: Create a Virtual Environment
 
 
 python -m venv venv
