@@ -10,42 +10,33 @@ Admin can manage products, view orders, update status, and export orders.
 ## ⚙️ Setup Instructions (Commands Included)
 
 ### 1️⃣ Clone the Repository
-```bash
+
 git clone https://github.com/Ambikajeera/sepnoty_ecommerce.git
 2️⃣ Navigate to the Project Folder
 bash
 
 cd sepnoty_project
 3️⃣ Create a Virtual Environment
-bash
+
 
 python -m venv venv
 4️⃣ Activate the Virtual Environment
 For Windows:
-
-bash
-
 venv\Scripts\activate
 For Mac/Linux:
 
-bash
-
 source venv/bin/activate
 5️⃣ Install Dependencies
-bash
 
 pip install -r requirements.txt
 6️⃣ Apply Migrations
-bash
 
 python manage.py makemigrations
 python manage.py migrate
 7️⃣ Create Superuser (Admin Login)
-bash
 
 python manage.py createsuperuser
 8️⃣ Run the Server
-bash
 
 python manage.py runserver
 Then open your browser and go to:
